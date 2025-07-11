@@ -47,9 +47,8 @@ If you want to contribute or add your own beginner Python program:
 Hi! I'm AashA, an MCA student passionate about learning and building practical coding skills.
 I’ve completed internships in Full Stack Development and ServiceNow Virtual Internship, earning 440 points and 2 badges.
 
- Connect with me on https: LinkedIn
- Reach me: ashalathavanja@gmail.com
- Location: India
+ 📧Reach me: ashalathavanja@gmail.com
+ 📍Location: India
 
 
 
